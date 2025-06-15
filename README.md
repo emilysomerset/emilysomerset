@@ -6,4 +6,5 @@
 
 ## Course Notes
 
+- [STA238: Probability, Statistics and Data Analysis II](https://emilysomerset.github.io/sta238-notes)
 - [STA303: Methods of Data Analysis II](https://emilysomerset.github.io/sta303-notes)
