@@ -10,4 +10,4 @@
 - [STA303: Methods of Data Analysis II](https://emilysomerset.github.io/sta303-notes)
 
 ## SoTL and DBER research paper notes
-- [Pedagogy research notes](https://emilysomerset.github.io/SOTL-DEBER-notes)
+- [Pedagogy research notes](https://emilysomerset.github.io/SOTL-DBER-notes)
