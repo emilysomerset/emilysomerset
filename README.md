@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: emily.somerset@mail.utoronto.ca
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I have two russian blue kitties named Mo and Joe. 
+- ⚡ Fun fact: I have two russian blue kitties named Moe and Joey (Jo). 
 
 ## Course Notes
 
